@@ -1,4 +1,4 @@
-Tourest - Explore the World
+Tourist - Explore the World
 Project Description
 "Tourest - Explore the World" is a responsive web application designed to serve as a travel agency website. It aims to inspire users to "Explore Your Travel" and emphasizes that for some, "I travel not to go anywhere, but to go. I travel for travel's sake the great affair is to move.". The website provides information about various destinations, popular tours, and details about the agency's services.
 
